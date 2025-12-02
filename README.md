@@ -1,4 +1,3 @@
-# clj-simple-nn
 
 # clj-simple-nn — Red neuronal simple en Clojure
 
