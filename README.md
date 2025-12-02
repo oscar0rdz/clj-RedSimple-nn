@@ -123,31 +123,15 @@ El sistema genera muchos puntos en un plano. Algunos están dentro de un círcul
 
 ---
 
-## Explicación técnica para reclutadores
-
-Este proyecto muestra:
-
-- Implementación matemática de:
-  - Forward pass
-  - Backpropagation analítico
-  - Gradiente descendente
-- Uso del paradigma funcional de Clojure:
-  - Modelos representados como mapas inmutables
-  - Transformaciones puras en las funciones de red
-- Separación de responsabilidades y diseño modular
-- Sin frameworks de alto nivel: todo se implementa explícitamente para demostrar entendimiento
-
----
-
 ## GIF demostrativo
 
 
-```
+
 <div align="center">
   <img src="clojure.gif" width="600">
 </div>
 
-```
+
 
 ---
 
