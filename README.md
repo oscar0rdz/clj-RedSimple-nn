@@ -1,5 +1,5 @@
 
-# clj-simple-nn — Red neuronal simple en Clojure
+# Red neuronal simple en Clojure
 
 ## GIF demostrativo
 
