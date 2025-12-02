@@ -130,15 +130,6 @@ El sistema genera muchos puntos en un plano. Algunos están dentro de un círcul
 
 ---
 
-## GIF demostrativo
-
-
-
-<div align="center">
-  <img src="clojure.gif" width="600">
-</div>
-
-
 
 ---
 
