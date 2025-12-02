@@ -8,7 +8,7 @@
 </div>
 
 
-Este proyecto implementa desde cero una red neuronal feed-forward en Clojure para demostrar de manera clara, numérica y transparente cómo un modelo aprende una frontera de decisión no lineal. La red clasifica puntos 2D según si están dentro o fuera de un círculo. Es un ejemplo diseñado como proyecto de portafolio: simple, didáctico, reproducible y con una estructura idiomática en Clojure.
+Lo que queria trabajr en este proyetcoi era el diseño y creacion completa d ela red  feed-forward en Clojure para demostrar de manera clara,  y visul cómo un modelo aprende una frontera de decisión no lineal. La red clasifica puntos 2D según si están dentro o fuera de un círculo. Es un ejemplo sencillo diseñado como proyecto de practica splicnaod distintos conocimientod acerca del funcionamiento y creeacion de redes 
 
 ---
 
